@@ -1,3 +1,3 @@
-#HabboAPI v.3.3.5
+# HabboAPI v.3.3.5
 
-#This is the initial README file.
+This is the initial README file.
