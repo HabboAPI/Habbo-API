@@ -17,13 +17,13 @@ There's no Rate-limiting enforced in our API.
 
 ## Endpoints 
 
-## [furni](furni/README.md)
-- [List furnis](furni/get.md) : `GET /furni`
-- [Get single furni](furni/show.md) : `GET /furni/furni_code`
-
 ## [badges](badges/README.md)
 - [List badges](badges/get.md) : `GET /badges`
 - [Get single badge](badges/show.md) : `GET /badges/badge_code`
+
+## [furni](furni/README.md)
+- [List furnis](furni/get.md) : `GET /furni`
+- [Get single furni](furni/show.md) : `GET /furni/furni_code`
 
 ## [clothing](clothing/README.md)
 - [List clothing](clothing/get.md) : `GET /clothing`
