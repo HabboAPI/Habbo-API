@@ -1,4 +1,4 @@
-# HabboAPI v.3.3.5
+# HabboAPI v.3.3.6
 
 - Over `60.000` Badges
 - Over `6.500` Furniture
