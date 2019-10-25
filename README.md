@@ -30,4 +30,4 @@ Documentation: https://habboapi.net/
 - [Get single clothing](clothing/show.md) : `GET /clothing/clothing_code`
 
 ## Social Media
-Twitter: https://twitter.com/habboapi
+> Twitter: https://twitter.com/habboapi
