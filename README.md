@@ -29,7 +29,7 @@ There's **no** Rate-limiting enforced in our API.
 #### [clothing](clothing/README.md)
 - [List clothing](clothing/get.md) : `GET /clothing`
 - [List single clothing](clothing/show.md) : `GET /clothing/show.md` - _coming soon_
-- [Use furni clothing](clothing/directions.md) : `GET /clothing/directions.md` - _coming soon_
+- [Use clothing directions](clothing/directions.md) : `GET /clothing/directions.md` - _coming soon_
 
 ## Social Media
 Twitter: [Official Twitter](https://twitter.com/habboapi)
