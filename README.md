@@ -15,16 +15,21 @@ To use our API you **dont need any authentication**. It's free to use, you just 
 There's **no** Rate-limiting enforced in our API.
 
 ## Endpoints
-### [badges](badges/README.md)
+#### [badges](badges/README.md)
 - [List badges](badges/get.md) : `GET /badges`
-- [List single badges](badges/show.md) : `GET /badges/show.md`
-- [List badges by hotel](badges/hotel.md) : `GET /badges/hotel.md`
+- [List single badges](badges/show.md) : `GET /badges/show.md` - _coming soon_
+- [List badges by hotel](badges/hotel.md) : `GET /badges/hotel.md` - _coming soon_
 
-### [furni](furni/README.md)
+#### [furni](furni/README.md)
 - [List furnis](furni/get.md) : `GET /furni`
+- [List single furni](furni/show.md) : `GET /furni/show.md` - _coming soon_
+- [Use furni directions](furni/directions.md) : `GET /furni/directions.md` - _coming soon_
+- [Use furni colors](furni/colors.md) : `GET /furni/colors.md` - _coming soon_
 
-### [clothing](clothing/README.md)
+#### [clothing](clothing/README.md)
 - [List clothing](clothing/get.md) : `GET /clothing`
+- [List single clothing](clothing/show.md) : `GET /clothing/show.md` - _coming soon_
+- [Use furni clothing](clothing/directions.md) : `GET /clothing/directions.md` - _coming soon_
 
 ## Social Media
 Twitter: [Official Twitter](https://twitter.com/habboapi)
