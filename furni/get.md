@@ -14,7 +14,8 @@ Lists all furnis that we have scanned and registered.
 | description | Query | String | No | Wildcard search for furni with that description |
 | code | Query | String | No | Wildcard search for furni with that code |
 | habbo_furni_id | Query | String | No | Wildcard search for furni with that habbo furni id |
-| line | Query | String | No | Wildcard search for furni with that line-code |
+| furni_line | Query | String | No | Wildcard search for furni with that line-code |
+| furni_line_name | Query | String | No | Wildcard search for furni with that line-name |
 | for_sale | Query | String | No | If supplied, will only return `for_sale` furni |
 | builders_club | Query | String | No | If supplied, will only return `builders_club` furni |
 | new | Query | String | No | If supplied, will only return `new` furni |
