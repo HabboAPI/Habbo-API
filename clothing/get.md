@@ -15,6 +15,7 @@ Lists all clothing that we have scanned and registered.
 | code | Query | String | No | Wildcard search for clothing with that code |
 | habbo_furni_id | Query | String | No | Wildcard search for clothing with that habbo furni id |
 | furni_line | Query | String | No | Wildcard search for clothing with that line-code |
+| furni_line_name | Query | String | No | Wildcard search for clothing with that line-name |
 | for_sale | Query | String | No | If supplied, will only return `for_sale` clothing |ing |
 | new | Query | String | No | If supplied, will only return `new` clothing |
 
