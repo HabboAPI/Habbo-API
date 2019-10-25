@@ -31,4 +31,4 @@ There's no Rate-limiting enforced in our API.
 > Twitter: [Official Twitter](https://twitter.com/habboapi)
 
 ## Credits
-Made by @inctor and @HabboAPI.
+Made by [Incor](https://github.com/inctor) and [HabboAPI](https://github.com/habboapi).
