@@ -4,9 +4,9 @@
 - Over `6.500` Furniture
 - Over `500` Clothing
 
-> Habbo API is a free to use API, that aim to help fansite builders create awesome tools and features for their sites. We offer a large number of API endpoints, that serve you the lastest Habbo Badges, Furniture, Clothes and a lot more.
+> Habbo API is a free to use API, that aim to help Habbo fansite builders create awesome tools and features for their fansites. We offer a large number of API endpoints, that serve you the lastest Habbo Badges, Furniture, Clothes and hopefully a lot more, in the future.
 
-Website: https://habboapi.net/
+Documentation: https://habboapi.net/
 
 ## Authentication
 To use our API you **dont need any authentication**. It's free to use, you just need to call our endpoint.
@@ -29,3 +29,6 @@ There are multiple endpoints. Feel free to use them all.
 - [List clothing](clothing/get.md) : `GET /clothing`
 - [Get single clothing](clothing/show.md) : `GET /clothing/clothing_code`
 
+## Social Media
+main twitter: twitter.com/habboapi
+twitter bot: twitter.com/habboapi_bot
