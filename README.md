@@ -38,6 +38,6 @@ Made by [Incor](https://github.com/inctor) and [HabboAPI](https://github.com/hab
 ## Changelog
 - **September 2019**
   - **3.3.6** | Added _badge_owners_ to `/badges`
-  - **3.3.6** | Fixed missing furni `/furni`
+  - **3.3.3** | Fixed missing furni `/furni`
 - **April 2019**
-  - **3.3.5** | Added _states_ to `/furni`
+  - **3.3.4** | Added _states_ to `/furni`
