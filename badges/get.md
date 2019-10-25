@@ -41,29 +41,29 @@ curl --request GET \
 **Content**
 ```json
 {
-   current_page: 1,
-   data: [
+   "current_page": 1,
+   "data": [
       {
-         code: "TRE30",
-         name: "Habboloji.com / Şu Surata Bir Gülümseme Yerleştirelim",
-         description: "",
-         hotel: "com.tr",
-         discovered_at_iso: "2019-10-25T13:37:10+00:00",
-         discovered_at: "2019-10-25 13:37:10",
-         image: "https://habboo-a.akamaihd.net/c_images/album1584/TRE30.gif",
-         achievement: false,
-         new: true,
-         has_image: true,
-         badge_owners: 0,
+         "code": "TRE30",
+         "name": "Habboloji.com / Şu Surata Bir Gülümseme Yerleştirelim",
+         "description": "",
+         "hotel": "com.tr",
+         "discovered_at_iso": "2019-10-25T13:37:10+00:00",
+         "discovered_at": "2019-10-25 13:37:10",
+         "image": "https://habboo-a.akamaihd.net/c_images/album1584/TRE30.gif",
+         "achievement": false,
+         "new": true,
+         "has_image": true,
+         "badge_owners": 0,
       }
    ],
-   from: 1,
-   last_page: 58604,
-   next_page_url: "https://api.habboapi.net/badges?page=2",
-   path: "https://api.habboapi.net/badges",
-   per_page: "1",
-   prev_page_url: null,
-   to: 1,
-   total: 58604,
+   "from": 1,
+   "last_page": 58604,
+   "next_page_url": "https://api.habboapi.net/badges?page=2",
+   "path": "https://api.habboapi.net/badges",
+   "per_page": "1",
+   "prev_page_url": null,
+   "to": 1,
+   "total": 58604,
 }
 ```
