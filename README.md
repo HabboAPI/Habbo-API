@@ -36,4 +36,5 @@ There's **no** Rate-limiting enforced in our API.
 Made by [Incor](https://github.com/inctor) and [HabboAPI](https://github.com/habboapi).
 
 ## Changelog
+**October 2019**
 > **3.3.6** | Added _badge_owners_ to `/badges`
