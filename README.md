@@ -6,7 +6,7 @@
 
 > Habbo API is a free to use API, that aim to help Habbo fansite builders create awesome tools and features for their fansites. We offer a large number of API endpoints, that serve you the lastest Habbo Badges, Furniture, Clothes and hopefully a lot more, in the future.
 
-Documentation: https://habboapi.net/
+> Documentation: https://habboapi.net/
 
 ## Authentication
 > To use our API you **dont need any authentication**. It's free to use, you just need to call our endpoint.
