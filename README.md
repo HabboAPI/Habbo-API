@@ -30,5 +30,4 @@ There are multiple endpoints. Feel free to use them all.
 - [Get single clothing](clothing/show.md) : `GET /clothing/clothing_code`
 
 ## Social Media
-Main Twitter: twitter.com/habboapi
-Twitter bot: twitter.com/habboapi_bot
+Twitter: twitter.com/habboapi
