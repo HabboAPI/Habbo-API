@@ -9,13 +9,13 @@
 Documentation: https://habboapi.net/
 
 ## Authentication
-To use our API you **dont need any authentication**. It's free to use, you just need to call our endpoint.
+> To use our API you **dont need any authentication**. It's free to use, you just need to call our endpoint.
 
 ## Rate Limiting
-There's no Rate-limiting enforced in our API.
+> There's no Rate-limiting enforced in our API.
 
 ## Endpoints
-There are multiple endpoints. Feel free to use them all.
+> There are multiple endpoints. Feel free to use them all.
 
 ## [badges](badges/README.md)
 - [List badges](badges/get.md) : `GET /badges`
