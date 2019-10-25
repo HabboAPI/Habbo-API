@@ -21,7 +21,6 @@ There's **no** Rate-limiting enforced in our API.
 #### [badges](badges/README.md)
 - [List badges](badges/get.md) : `GET /badges`
 - [List single badges](badges/show.md) : `GET /badges/show.md` - _coming soon_
-- [List badges by hotel](badges/hotel.md) : `GET /badges/hotel.md` - _coming soon_
 
 #### [furni](furni/README.md)
 - [List furnis](furni/get.md) : `GET /furni`
