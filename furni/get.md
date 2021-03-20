@@ -24,7 +24,7 @@ Lists all furnis that we have scanned and registered.
 **Return a list of all furnis in the API**
 ```bash
 curl --request GET \
-  --url 'https://api.socialhabbo.com/furni' \
+  --url 'https://api.habboapi.net/furni' \
   --header 'Content-Type: application/json'
 ```
 
